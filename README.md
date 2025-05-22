@@ -21,5 +21,5 @@ pisząc w terminalu komende h po otworzeniu projektu powina się pojawić instru
 ```
 ## Authors
 
-- [Michał wdowik lat 14](https://www.github.com/octokatherine)
+- [Michał wdowik](https://github.com/ImMadiFr)
 
